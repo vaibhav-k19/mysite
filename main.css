@@ -29,11 +29,11 @@ body {
   height: 100%; }
 
 body {
-  background: url(cover.jpg) no-repeat center center fixed;
+  background: url(pexels-felix-mittermeier-956999.jpg) no-repeat center center fixed;
   background-size: cover;
   color: #fff;
   text-align: center;
-  font-family: 'Quicksand', sans-serif; }
+  font-family: 'Roboto', sans-serif; }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
